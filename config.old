@@ -1,0 +1,11 @@
+#This is a comment line
+[Image_capture]
+img_qual = 65
+#Into this section all paths go
+[Paths]
+logfile = /home/pi/dev/BWC_pyth3/BWC_log.txt
+webpage_path = /var/www/html/index.html
+image_target_collection_folder = /home/pi/dev/BWC/IMG
+image_target_for_webpage = /var/www/html/image.jpg
+image_target_collection_folder = /home/pi/dev/BWC/IMG
+
