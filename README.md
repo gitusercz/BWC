@@ -6,7 +6,7 @@ If the python script is made autostarted and the Raspberry is plugged into a Pow
 ![Example image](/resources/01.jpg)
 
 ### Example image of webpage it creates: 
-![Browser](/resources/webpage.png)
+![Browser](/resources/webpage.jpg)
 
 Use as you wish! 
 
